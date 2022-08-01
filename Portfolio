@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" 
+        rel="stylesheet">
+    <title>HTML Project</title>
+</head>
+
+<body>
+    <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f4571b">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td>
+                            <font face="arial" color=" #000000" size="5">
+                                <span class="fa-solid fa-user-tie"></span>
+                                Vivek Sahni
+                            </font>
+
+                        </td>
+                        <td>
+                            &nbsp;
+
+                        </td>
+                        <td>
+                            <a href="#Home">
+                                <font face="arial" color="#ffffff" size="4">Home</font>
+                            </a>
+                        </td>
+                        <td>
+                            <a href="#About">
+                                <font face="arial" color="#ffffff" size="4">About</font>
+                            </a>
+                        </td>
+                        <td>
+                            <a href="#Services">
+                                <font face="arial" color="#ffffff" size="4">Service</font>
+                            </a>
+                        </td>
+                        <td>
+                            <a href="#Testimonial">
+                                <font face="arial" color="#ffffff" size="4">Testimonials</font>
+                            </a>
+                        </td>
+                        <td>
+                            <a href="#Achievements">
+                                <font face="arial" color="#ffffff" size="4">Achievements</font>
+                            </a>
+                        </td>
+                        <td>
+                            <a href="#Contact">
+                                <font face="arial" color="#ffffff" size="4">Contact</font>
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+    </table>
+
+    <table id="Home" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td align="center" valign="middle">
+                            <h3>
+
+                                <font face="arial" color="#ffffff" size="6">
+
+                                    Hi, I am Vivek Sahni
+                                </font>
+                            </h3>
+
+                            <h2>
+                                
+                                
+                                <font face="arial" color="#f39716" size="6">
+                                    
+                                    I am a Programming Student </font>
+                                    
+                                </h2>
+                            </td>
+
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+    </table>
+
+    <!-- Start About -->
+    <table id="About" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td align="center" valign="middle" colspan="2">
+                            
+
+                                <font face="arial" color="#f3971b" size="6">
+
+                                    About me
+                                </font>
+                                <hr width ="70" color="#f3971b"
+                            
+
+                            
+                            </td>
+
+                    </tr>
+                    <tr>
+                        <td width ="40%">
+                            <img src="images/IMG20220516123152.jpg" alt="Vivek Sahni" width ="90%">
+                        </td>
+                        <td width ="80%">
+                            <font face="arial" color="#ffffff" size="4">
+                                <h2>
+                                    I am a passionate programmer
+                                </h2>
+                                
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur distinctio sapiente porro, ipsam vitae sequi, consequuntur, possimus repellendus veniam nihil accusamus illo ex iusto nulla fugiat! Vero animi dolores aspernatur quae voluptatibus velit adipisci quis non a culpa, reiciendis excepturi doloremque repellendus omnis asperiores. Beatae deserunt sit quam est quia amet voluptate expedita repellat officia, ipsam fugiat nam debitis perspiciatis! Facere dignissimos corporis minima ad aperiam illum itaque veniam. Recusandae quod repellat ut eligendi, sunt sed cum asperiores beatae optio! Sapiente voluptates quae doloremque aspernatur facere ipsum sequi non ut. Alias enim consequatur facere. Odio accusamus soluta voluptatibus totam provident!
+                                
+
+            
+    
+
+
+
+                                
+                                
+
+
+
+                            
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+    </table>
+    <!-- End About -->
+
+    <!-- Start Services  -->
+    <table id="Services" border="" width="100%" cellpadding="0" cellspacing="0" bgcolor="#c2c0c3">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td  height ="180" align="center" valign="middle" colspan="3">
+                            
+
+                                <font face="arial" color="#292929" size="6">
+
+                                          Services
+                                </font>
+                                <hr width ="70" color="#292929"
+                            
+
+                            
+                            </td>
+
+                    </tr>
+                    <tr>
+                        <td width ="33%">
+                            <img src="https://static3.makeuseofimages.com/wordpress/wp-content/uploads/2017/09/HTML-Effects-Featured.jpg" alt="Services 1" width ="100%">
+                        </td>
+                        <td width ="33%">
+                            <img src="images/css.jpg.jpg" alt="Services 2" width ="100%">
+                        </td>
+                        <td width ="33%">
+                            <img src="images/js.jfif" alt="Services 3" width ="100%">
+                        </td>
+                        
+                        
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+    </table>
+    <!-- End   Services -->
+
+    <!-- Start Testimonial -->
+    <table id="Testimonial" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="3">
+                                <font face="arial" color="#f3971b" size="6">
+                                     Testimonial
+                                </font>
+                                <hr width="70" color="#f3971b">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#ffffff">
+                                <h3 align="center">Nikhil Raj</h3>
+                            </font>
+                            <font face="arial" color="#c2c0c3">
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda laudantium ex aperiam quas dolor molestias, nemo ipsam voluptates hic animi minima earum sit accusamus minus!
+                            </font>
+                        </td>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#ffffff">
+                                <h3 align="center">Akash Gupta</h3>
+                            </font>
+                            <font face="arial" color="#c2c0c3">
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda laudantium ex aperiam quas dolor molestias, nemo ipsam voluptates hic animi minima earum sit accusamus minus!
+                            </font>
+                        </td>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#ffffff">
+                                <h3 align="center">Aditya Mishra</h3>
+                            </font>
+                            <font face="arial" color="#c2c0c3">
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda laudantium ex aperiam quas dolor molestias, nemo ipsam voluptates hic animi minima earum sit accusamus minus!
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+
+
+    </table>
+    <!-- End   Testimonial -->
+
+    <!-- Start Achivements -->
+    <table id="Achievements" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#c2c0c3">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="2">
+                                <font face="arial" color="#292929" size="6">
+                                     Achievements
+                                </font>
+                                <hr width="70" color="#292929">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td width="66%" valign="top">
+                           <font face="arial"color="#292929">
+                            <ul>
+                                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio sint nesciunt voluptates autem minima sed accusantium consequatur inventore nobis aspernatur?</li>
+                                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam, non.</li>
+                                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis excepturi ullam distinctio.</li>
+                                <li>Lorem ipsum dolor sit amet consectetur.</li>
+                                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas vitae eveniet pariatur deleniti eius, mollitia fugiat.</li>
+                                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, id!</li>
+                                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam sequi voluptatibus hic optio provident!</li>
+                            </ul>
+                           </font>
+                        </td>
+                        <td valign="top">
+                            <img src="https://tse1.mm.bing.net/th?id=OIP.VTE08O2w9JutjYFlKksoBgHaEK&pid=Api&P=0" alt="Achievements"  width="90%">
+                        </td>
+                        
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+
+
+    </table>
+    <!-- End   Achivements -->
+
+    <!-- Start Contact -->
+    <table id="Contact" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="1">
+                                <font face="arial" color="#f3971b" size="6">
+                                     Contact
+                                </font>
+                                <hr width="70" color="#f3971b">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td align="center" valign="top">
+                           <table border="0" width="50%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
+                               <tr>
+                                   <td width="30%">
+                                       <font face="arial" size="4" color="#ffffff">
+                                           Name
+                                       </font>
+                                   </td>
+                                   <td width="70%">
+                                    <font face="arial" size="4" color="#000000">
+                                        <input type="text" size="40">
+                                    </font>
+                                    </td>
+                               </tr>
+                               <tr>
+                                <td width="30%">
+                                    <font face="arial" size="4" color="#ffffff">
+                                        Email
+                                    </font>
+                                </td>
+                                <td width="70%">
+                                 <font face="arial" size="4" color="#ffffff">
+                                     <input type="text" size="40">
+                                 </font>
+                                 </td>
+                            </tr>
+                            <tr>
+                                <td width="30%">
+                                    <font face="arial" size="4" color="#ffffff">
+                                        Message
+                                    </font>
+                                </td>
+                                <td width="70%">
+                                 <font face="arial" size="4" color="#ffffff">
+                                     <textarea rows="5" cols="42"></textarea>
+                                 </font>
+                                 </td>
+                            </tr>
+                            <tr>
+                                <td width="30%">
+                                   &nbsp;
+                                </td>
+                                <td width="70%">
+                                    <button type="Submit">
+                                        <font face="arial" size="4" color="#292929">
+                                             Submit
+                                        </font>
+                                </button>
+                                 </td>
+                            </tr>
+                           </table>
+                        </td>
+                        
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+
+
+    </table>
+    <!-- End   Contact -->
+     <!--Start Footer-->
+     <table id="header" border="1" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                   
+                    <tr>
+                        <td width="25%" valign="top">
+                            <font face="arial" color="#f3971b" size="5">
+                                <span class="fa-brands fa-facebook" aria-hidden="true"></span>
+                                Facebook
+                            </font>
+                            
+                        </td>
+                        <td width="25%" valign="top">
+                            <font face="arial" color="#f3971b" size="5">
+                                <span class="fa-brands fa-twitter" aria-hidden="true"></span>
+                                Twitter
+                            </font>
+                            
+                        </td>
+                        <td width="25%" valign="top">
+                            
+                               <a href="https://www.instagram.com/invites/contact/?i=utoojfhjsmzh&utm_content=m8lmrxb">
+                                <font face="arial" color="#f3971b" size="5">
+                                    <span class="fa-brands fa-instagram" aria-hidden="true"></span>
+                                    Instagram
+                                </font>
+                                </a> 
+                            
+                        </td>
+                        <td width="25%" valign="top">
+                            <font face="arial" color="#f3971b" size="5">
+                                <span class="fa-brands fa-linkedin" aria-hidden="true"></span>
+                                Linkedin
+                            </font>
+                            
+                        </td>
+                        <td rowspan="2">
+                            <font face="arial" color="#ffffff" size="5">
+                                <span class="fa fa-arrow-circle-up" aria-hidden="true"></span>
+                             <a href="#header">
+                                <font face="arial" color="#ffffff" size="5">
+                                    Top
+                                </font>
+                                
+                            </a>
+                            </font>
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="25%" valign="top">
+                            <font face="arial" color="#f3971b" size="5">
+                                <span class="fa-brands fa-youtube" aria-hidden="true"></span>
+                                YouTube
+                            </font>
+                            
+                        </td>
+                        <td width="25%" valign="top">
+                            <font face="arial" color="#f3971b" size="5">
+                                <span class="fa fa-rss-square" aria-hidden="true"></span>
+                                Blog
+                            </font>
+                            
+                        </td>
+                        <td width="25%" valign="top">
+                            <font face="arial" color="#f3971b" size="5">
+                                <span class="fa-solid fa-envelope" aria-hidden="true"></span>
+                                Email
+                            </font>
+                            
+                        </td>
+                        <td width="25%" valign="top">
+                            <font face="arial" color="#f3971b" size="5">
+                                <span class="fa fa-globe" aria-hidden="true"></span>
+                                Website
+                            </font>
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+
+
+    </table>
+    <!--End Footer-->
+</body>
+
+</html>
